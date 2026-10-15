@@ -3,7 +3,7 @@ requires = ["setuptools>=68.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "jarvis"
+name = "jarvis-os-agent-5"
 version = "5.0.0"
 description = "JARVIS 5.0 — Autonomous Personal AI Operating System (Windows + macOS + Global Remote)"
 requires-python = ">=3.11"
